@@ -46,7 +46,7 @@ const Content = () => (
                         </div>
                         <span>Linkedin</span>
                     </a>
-                    <a className="button" href="https://github.com/AlexandrePires/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400">
+                    <a className="button" href="https://github.com/aelpires" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400">
                         <div className="icon">
                             <i className="fab fa-github"></i>
                         </div>
